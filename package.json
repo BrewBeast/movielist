@@ -8,8 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git remote add origin https://github.com/BrewBeast/movielist.git"
+    "url": "https://github.com/BrewBeast/movielist.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.10.0"
+  }
 }
